@@ -9,7 +9,6 @@ authors:
     orcid: https://orcid.org/0000-0002-6343-9155
 title: "Truncated-Mode Deconvolution"
 version: 1.0.0
-identifiers:
-  - type: url
-    value: https://github.com/biomicroscopy/TMD
+url: "https://github.com/biomicroscopy/TMD"
+repository-code: "https://github.com"
 date-released: 2026-07-20
